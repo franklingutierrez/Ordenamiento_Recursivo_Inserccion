@@ -1,0 +1,3 @@
+C:/Users/guiratec/Downloads/Semana2/Ordenamiento_Recursivo_Inserccion/cmake-build-debug/CMakeFiles/Ordenamiento_Recursivo_Inserccion.dir
+C:/Users/guiratec/Downloads/Semana2/Ordenamiento_Recursivo_Inserccion/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/guiratec/Downloads/Semana2/Ordenamiento_Recursivo_Inserccion/cmake-build-debug/CMakeFiles/rebuild_cache.dir

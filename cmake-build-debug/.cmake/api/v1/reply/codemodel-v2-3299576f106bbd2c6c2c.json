@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.22"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Ordenamiento_Recursivo_Inserccion",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Ordenamiento_Recursivo_Inserccion::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Ordenamiento_Recursivo_Inserccion-Debug-2cbfb0ea7284cafc2ec2.json",
+					"name" : "Ordenamiento_Recursivo_Inserccion",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/guiratec/Downloads/Semana2/Ordenamiento_Recursivo_Inserccion/cmake-build-debug",
+		"source" : "C:/Users/guiratec/Downloads/Semana2/Ordenamiento_Recursivo_Inserccion"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}
